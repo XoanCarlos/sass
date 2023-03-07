@@ -1,0 +1,23 @@
+$primary-color: #007bff;
+
+body {
+  background-color: $primary-color;
+
+  h1 {
+    font-size: 24px;
+    color: #fff;
+  }
+
+  p {
+    font-size: 16px;
+    color: #333;
+  }
+
+  a {
+    color: $primary-color;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

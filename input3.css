@@ -1,0 +1,19 @@
+body {
+  background-color: #007bff;
+}
+body h1 {
+  font-size: 24px;
+  color: #fff;
+}
+body p {
+  font-size: 16px;
+  color: #333;
+}
+body a {
+  color: #007bff;
+}
+body a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=input3.css.map */
